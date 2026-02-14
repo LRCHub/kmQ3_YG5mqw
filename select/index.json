@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミーモ・ダンシング",
+  "base_artist": "Daito Music",
+  "createdAt": "2026-02-14T09:42:49.468670Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミーモ・ダンシング",
+      "artist": "Daito Music",
+      "has_synced": false,
+      "path": "select/pl_01_ミーモ・ダンシング_Daito_Music.txt"
+    }
+  ]
+}
